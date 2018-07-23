@@ -15,3 +15,15 @@ https://classroom.udacity.com/courses/ud855/lessons/89b6a627-f121-498c-aa53-2630
 
 ![](/images/video.png)
 ![](/images/audio.png)
+
+### Comparing Players
+
+![](/images/player.png)
+
+#### ExoPlayer
+	Open source, exposes the low-level Android audio Api.
+![](/images/exoplayer.png)
+
+#### Custom Player
+	Low-level media Api : MediaCodec, AudioTrack, MediaDRM.
+	![](/images/custom_player.png)
