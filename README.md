@@ -26,4 +26,4 @@ https://classroom.udacity.com/courses/ud855/lessons/89b6a627-f121-498c-aa53-2630
 
 #### Custom Player
 	Low-level media Api : MediaCodec, AudioTrack, MediaDRM.
-	![](/images/custom_player.png)
+![](/images/custom_player.png)
